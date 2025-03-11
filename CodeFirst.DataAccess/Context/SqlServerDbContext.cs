@@ -27,5 +27,7 @@ namespace CodeFirst.DataAccess.Context
             modelBuilder.ApplyConfiguration(new ClientsConfiguration());
             modelBuilder.ApplyConfiguration(new EmployeesConfiguration());
         }
+
+ 
     }
 }
